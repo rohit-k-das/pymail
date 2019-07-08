@@ -1,6 +1,6 @@
 
-Google/Microsoft Email Script
------------------------------
+Google/Microsoft Email Python Script
+------------------------------------
 
 The script uses Google and Microsoft API's to read, delete or restore emails from the user's mailbox. You can use whichever your company uses and modify mailApp.
 
